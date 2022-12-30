@@ -18,8 +18,6 @@ const query = `fragment userProfilePage on User {
                     id
                     character
                     gameCount
-                    wins
-                    losses
                     __typename
                     }
             __typename
